@@ -1,12 +1,14 @@
 ### Hi :fist_right::fist_left:, I'm Kristaps Martinsons!
 ---
-A full-time Software Developer at Codelex, with a passion for learning and growing professionally.</br>
-Now building a strong base and expanding my knowledge in C#, HTTP & Web API, Relational Databases & SQL, TypeScript, VueJS & NodeJS, Unit Testing, and TDD.
+A full-time Software Developer, with a passion for learning and growing professionally.</br>
+Now building a strong base and expanding my knowledge in C#, HTTP & Web API, Relational Databases & SQL, Java, Groovy TypeScript, VueJS & NodeJS, Unit Testing, and TDD.
 
 ### Skills:
 &#8280; Git </br>
 &#8280; C# </br>
-&#8280; .NET</br>
+&#8280; .NET </br>
+&#8280; Java </br>
+&#8280; Groovy </br>
 &#8280; Relational Databses & SQL</br>
 &#8280; HTTP & Web API Basics</br>
 &#8280; Unit Testing</br>
@@ -24,4 +26,4 @@ Now working on Flight Planner and the goal is to create an application which can
 ### Details:
 <img src = "https://github.com/Automattic/social-logos/blob/trunk/sources/svg/mail.svg" alt = "e-mail" width = "20" height = "20"> <a href="mailto:k.matinsons@inbox.lv?subject=[GitHub]%20Hi%20there">k.martinsons@inbox.lv</a>
 <img src = "https://github.com/Automattic/social-logos/blob/trunk/sources/svg/linkedin.svg" alt = "LinkedIn" width = "20" height = "20"><a href="www.linkedin.com/in/kristaps-martinsons">www.linkedin.com/in/kristaps-martinsons</a>
-<img src = "https://github.com/Automattic/social-logos/blob/trunk/sources/svg/whatsapp.svg" alt = "whatsApp" width = "20" height = "20"> +&#51;71 &#50;&#54;&#52;&#48;9266
+<img src = "https://github.com/Automattic/social-logos/blob/trunk/sources/svg/whatsapp.svg" alt = "whatsApp" width = "20" height = "20"> +&#51;71 &#50;&#54;&#52;&#48;****
