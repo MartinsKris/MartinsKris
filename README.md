@@ -1,7 +1,7 @@
 ### Hi :fist_right::fist_left:, I'm Kristaps Martinsons!
 ---
 A full-time Software Developer, with a passion for learning and growing professionally.</br>
-Now building a strong base and expanding my knowledge in C#, HTTP & Web API, Relational Databases & SQL, Java, Groovy TypeScript, VueJS & NodeJS, Unit Testing, and TDD.
+Now building a strong base and expanding my knowledge in C#, HTTP & Web API, Relational Databases & SQL, Java, Groovy, TypeScript, VueJS & NodeJS, Unit Testing, and TDD.
 
 ### Skills:
 &#8280; Git </br>
@@ -20,10 +20,9 @@ Now building a strong base and expanding my knowledge in C#, HTTP & Web API, Rel
 ### Projects:
 Now working on Flight Planner and the goal is to create an application which can store flights between different airports and allows to search them.</br>
 <img src = "https://image.flaticon.com/icons/svg/68/68380.svg" alt = "Flight img" width = "20" height = "20">
-<a href="https://github.com/MartinsKris/FlightPlanner">FlightPlanner</a>
+<a href="https://github.com/MartinsKris/FlightPlannerEntity">FlightPlanner</a>
 
 ---
 ### Details:
 <img src = "https://github.com/Automattic/social-logos/blob/trunk/sources/svg/mail.svg" alt = "e-mail" width = "20" height = "20"> <a href="mailto:k.matinsons@inbox.lv?subject=[GitHub]%20Hi%20there">k.martinsons@inbox.lv</a>
 <img src = "https://github.com/Automattic/social-logos/blob/trunk/sources/svg/linkedin.svg" alt = "LinkedIn" width = "20" height = "20"><a href="www.linkedin.com/in/kristaps-martinsons">www.linkedin.com/in/kristaps-martinsons</a>
-<img src = "https://github.com/Automattic/social-logos/blob/trunk/sources/svg/whatsapp.svg" alt = "whatsApp" width = "20" height = "20"> +&#51;71 &#50;&#54;&#52;&#48;****
