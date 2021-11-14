@@ -19,7 +19,7 @@ Now building a strong base and expanding my knowledge in C#, HTTP & Web API, Rel
 
 ### Projects:
 Now working on Flight Planner and the goal is to create an application which can store flights between different airports and allows to search them.</br>
-<img src = "https://image.flaticon.com/icons/svg/68/68380.svg" alt = "Flight img" width = "20" height = "20">
+<img src = "https://www.svgrepo.com/show/24933/airplane-flight.svg" alt = "Flight img" width = "20" height = "20">
 <a href="https://github.com/MartinsKris/FlightPlannerEntity">FlightPlanner</a>
 
 ---
