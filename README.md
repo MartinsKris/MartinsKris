@@ -18,9 +18,9 @@ Now building a strong base and expanding my knowledge in C#, HTTP & Web API, Rel
 &#8280; HTML & CSS, VueJS, TypeScript & NodeJS basics</br>
 
 ### Projects:
-Now working on Flight Planner and the goal is to create an application which can store flights between different airports and allows to search them.</br>
-<img src = "https://www.svgrepo.com/show/24933/airplane-flight.svg" alt = "Flight img" width = "20" height = "20">
-<a href="https://github.com/MartinsKris/FlightPlannerEntity">FlightPlanner</a>
+Now working on Social network app.
+<img src = "https://www.svgrepo.com/show/260163/networking-share.svg" alt = "Network img" width = "25" height = "25">
+<!--a href="https://github.com/MartinsKris/FlightPlannerEntity">FlightPlanner</a-->
 
 ---
 ### Details:
