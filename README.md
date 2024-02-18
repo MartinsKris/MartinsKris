@@ -1,4 +1,4 @@
-### Hi :fist_right::fist_left:, I'm Kristaps Martinsons!
+### Hi :fist_right::fist_left:, I'm Kristaps!
 ---
 A full-time Software Developer, with a passion for learning and growing professionally.</br>
 Now building a strong base and expanding my knowledge in C#, HTTP & Web API, Relational Databases & SQL, Java, Groovy, TypeScript, VueJS & NodeJS, Unit Testing, and TDD.
